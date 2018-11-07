@@ -1,0 +1,13 @@
+{
+  "user" : {
+    "user1" : "Kanit",
+    "user2" : "Firebase",
+    "user3" : "Ruking",
+    "user4" : {
+      "Name" : "Kong",
+      "e-mail" : "kong@gmail.com",
+      "sex" : "men",
+      "tel" : "08923123131"
+    }
+  }
+}
